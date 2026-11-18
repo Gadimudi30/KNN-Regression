@@ -108,11 +108,3 @@ The model was also tested with a new house record to generate a continuous numer
 Through this task, I gained practical experience in implementing the KNN Regression algorithm using Python. I learned how to preprocess real-world data, train a regression model, evaluate its performance and predict house values for new data.
 
 This task helped me improve my understanding of machine learning concepts and regression-based prediction techniques.
-
-### Project Structure
-
-KNN-Regression/
-│
-├── Daily_Task_2_KNN_Regression.ipynb
-├── housing.csv
-└── README.md
